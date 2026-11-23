@@ -1,0 +1,46 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 320" width="1200" height="320" role="img" aria-label="PolicyCortex: Detached eMASS Replacement for RMF Authorization and Multi-Cloud Governance">
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#061419"/>
+      <stop offset="55%" stop-color="#09212A"/>
+      <stop offset="100%" stop-color="#051116"/>
+    </linearGradient>
+    <radialGradient id="glow" cx="85%" cy="18%" r="52%">
+      <stop offset="0%" stop-color="#00C7DF" stop-opacity="0.24"/>
+      <stop offset="100%" stop-color="#00C7DF" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+  <rect x="1" y="1" width="1198" height="318" rx="18" fill="url(#bg)" stroke="#1a3c48" stroke-width="1.5"/>
+  <rect x="1" y="1" width="1198" height="318" rx="18" fill="url(#glow)"/>
+
+  <g transform="translate(54, 44) scale(0.048)">
+    <path fill="#FFFFFF" d="M 200.0,120.0 L 904.0,120.0 L 824.0,240.0 L 684.0,492.0 L 824.0,592.0 L 904.0,632.0 L 904.0,904.0 L 120.0,904.0 L 120.0,160.0 Z"/>
+    <polygon fill="#00C7DF" points="674.0,472.0 794.0,502.0 684.0,582.0"/>
+  </g>
+  <text x="112" y="76" font-family="Inter, -apple-system, BlinkMacSystemFont, Segoe UI, Helvetica, Arial, sans-serif" font-size="24" font-weight="800" fill="#FFFFFF" letter-spacing="-0.4">PolicyCortex</text>
+
+  <rect x="854" y="47" width="292" height="32" rx="16" fill="#00C7DF" fill-opacity="0.12" stroke="#00C7DF" stroke-opacity="0.38" stroke-width="1"/>
+  <text x="1000" y="68" text-anchor="middle" font-family="Inter, -apple-system, Segoe UI, Helvetica, Arial, sans-serif" font-size="11.5" font-weight="700" fill="#5CE4F5" letter-spacing="1.4">DETACHED RMF + CLOUD GOVERNANCE</text>
+
+  <text x="58" y="142" font-family="Inter, -apple-system, BlinkMacSystemFont, Segoe UI, Helvetica, Arial, sans-serif" font-size="38" font-weight="800" fill="#FFFFFF" letter-spacing="-0.8">The Detached eMASS Replacement for</text>
+  <text x="58" y="188" font-family="Inter, -apple-system, BlinkMacSystemFont, Segoe UI, Helvetica, Arial, sans-serif" font-size="38" font-weight="800" fill="#00C7DF" letter-spacing="-0.8">Continuous Federal Authorization &amp; Cloud Governance</text>
+
+  <text x="58" y="226" font-family="Inter, -apple-system, BlinkMacSystemFont, Segoe UI, Helvetica, Arial, sans-serif" font-size="16.5" fill="#BFD5DD">Proof of State · Proof of Change · Proof of Agency · NIST SP 800-53 · NIST SP 800-171 · CMMC · OSCAL 1.1.2 · SHA3-256 Offline Verifier</text>
+
+  <g font-family="Inter, -apple-system, Segoe UI, Helvetica, Arial, sans-serif" font-size="13" font-weight="700">
+    <rect x="58" y="252" width="186" height="36" rx="8" fill="#FFFFFF" fill-opacity="0.06" stroke="#FFFFFF" stroke-opacity="0.14"/>
+    <text x="151" y="275" text-anchor="middle" fill="#E9F4F7">2,870+ Merged PRs</text>
+
+    <rect x="258" y="252" width="222" height="36" rx="8" fill="#FFFFFF" fill-opacity="0.06" stroke="#FFFFFF" stroke-opacity="0.14"/>
+    <text x="369" y="275" text-anchor="middle" fill="#E9F4F7">39 Azure &amp; AWS Collectors</text>
+
+    <rect x="494" y="252" width="234" height="36" rx="8" fill="#FFFFFF" fill-opacity="0.06" stroke="#FFFFFF" stroke-opacity="0.14"/>
+    <text x="611" y="275" text-anchor="middle" fill="#E9F4F7">1,196 NIST 800-53 Controls</text>
+
+    <rect x="742" y="252" width="206" height="36" rx="8" fill="#FFFFFF" fill-opacity="0.06" stroke="#FFFFFF" stroke-opacity="0.14"/>
+    <text x="845" y="275" text-anchor="middle" fill="#E9F4F7">Detached Enclave Ready</text>
+
+    <rect x="962" y="252" width="184" height="36" rx="8" fill="#00C7DF" fill-opacity="0.16" stroke="#00C7DF" stroke-opacity="0.45"/>
+    <text x="1054" y="275" text-anchor="middle" fill="#5CE4F5">policycortex.com</text>
+  </g>
+</svg>
